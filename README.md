@@ -11,19 +11,19 @@ The datacome.js component is responsible for displaying information such as foll
 ```[
     {
         "icon1": "AiOutlineStar",
-        "number1": 203
+        "number1": 125
     },
     {
         "icon2":"AiOutlineLike",
-        "number2": 163
+        "number2": 12
     },
     {
         "icon3":"AiOutlineEye",
-        "number3": 131
+        "number3": 5689
     },
     {
         "icon4":"AiOutlineHeart",
-        "number4": 67
+        "number4": 2600
     }
 ]
 ```
@@ -37,7 +37,7 @@ And I also tailwind css to make it responsive
 ## React-Icon
 In this project I used react icon library by installing ```npm install react-icons --save```.
 
-## Deploy Link - [TinyAssignment]("https://imaginative-hamster-103828.netlify.app/")
-# https://imaginative-hamster-103828.netlify.app/
+## Deploy Link - [TinyAssignment]("https://https://terribly-tiny-tales-sand-nine.vercel.app/")
+# https://terribly-tiny-tales-sand-nine.vercel.app/
 
 
